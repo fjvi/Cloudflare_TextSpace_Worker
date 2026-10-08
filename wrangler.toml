@@ -1,5 +1,5 @@
-name = "text-disk"
-main = "src/index.js"
+name = "textspace"
+main = "index.js"
 compatibility_date = "2024-01-01"
 
 [[d1_databases]]
