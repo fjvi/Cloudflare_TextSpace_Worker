@@ -1,0 +1,16 @@
+name = "text-disk"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "textspace-db"
+database_id = "81c9f6c6-dee6-4ee8-aa52-342990f86e98"
+
+[[kv_namespaces]]
+binding = "SHARE_KV"
+id = "textspace"
+
+[vars]
+ADMIN_UUID = "c7cf869a-39c5-4804-b385-630ebfd5d12c"
+FILENAME = "CF-Text-Cloud"
